@@ -67,4 +67,4 @@ jobs:
       - shell: bash
         run: make
       - shell: bash
-        run: LUX_MISC=true make test
+        run: make test
